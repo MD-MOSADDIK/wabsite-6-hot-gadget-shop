@@ -1,0 +1,52 @@
+.container{
+    margin-bottom: 5%;
+}
+.top{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    height: 500px;
+}
+.top-sec{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 50px;
+}
+
+button{
+    color: white;
+    background-color: black;
+}
+.carousel{
+    padding:5%;
+}
+.card-footer{
+    text-align: center;
+}
+.last{
+    text-align: center;
+}
+#last{
+    border-bottom: yellow 10px solid;
+    border-radius: 10px;
+}
+
+.box{
+    border: blanchedalmond 1px solid;
+    margin: 2px 2px;
+    box-shadow: black 2px 2px 5px;
+}
+#pp{
+    position: relative;
+    top: 120px;
+    right: 70px;
+}
+#ppp{
+    position: relative;
+    left: 90px;
+
+}
+footer{
+    text-align: center;
+}
